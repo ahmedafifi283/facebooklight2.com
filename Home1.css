@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url('contact.jpeg');
+                  background-size: cover; 
+                  object-fit: cover;
+                  
+                  
+                 
+                  justify-content: center;
+                  align-items: center;
+  
+}
