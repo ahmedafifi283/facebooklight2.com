@@ -1,0 +1,60 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url('under\ cons.jpeg');
+                  background-size: cover; 
+                  object-fit: cover;
+                  
+                  
+                 
+                  justify-content: center;
+                  align-items: center;
+  
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1 {
+    width: 300px;
+  margin-left: 800px;
+}
+
+p{
+    font-size: 35px;
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 760px;
+    margin-top: 50px;
+}
+
+.button {
+  margin-top: 30px;
+  margin-left: 900px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgb(7, 6, 6);
+  background-color: #dd0404;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px rgb(49, 47, 47);
+}
+
+.button:hover {background-color: #f54a07}
+
+.button:active {
+  background-color: #e40d0d;
+  box-shadow: 0 5px rgb(49, 47, 47);
+  transform: translateY(4px);
+}
+
+
+  
